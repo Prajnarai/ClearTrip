@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Reports.ExtentReporterNG" />
+</listeners>
+	<test thread-count="1" name="TestHome">
+		<classes>
+			<class name="Testcases.ClearTrip.HomeTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="1" name="TestApp">
+		<classes>
+
+			<class name="Testcases.ClearTrip.AppTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="1" name="TestFlight">
+		<classes>
+
+			<class name="Testcases.ClearTrip.FlightTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="1" name="TestHotel">
+		<classes>
+
+
+			<class name="Testcases.ClearTrip.HotelTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

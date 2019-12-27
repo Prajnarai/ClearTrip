@@ -1,0 +1,102 @@
+2019-12-14 15:41:24 DEBUG Base:46 - Browser Invokation
+2019-12-14 15:41:24 INFO  Base:49 - chrome
+2019-12-14 15:41:24 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:02:43 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:02:43 INFO  Base:49 - chrome
+2019-12-14 17:02:43 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:03:10 INFO  HomePage:42 - Entered username
+2019-12-14 17:03:10 INFO  HomePage:44 - Entered password
+2019-12-14 17:03:11 ERROR HomePage:46 - Invalid logins
+2019-12-14 17:03:13 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:03:13 INFO  Base:49 - chrome
+2019-12-14 17:03:13 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:03:45 DEBUG Flight:18 - Location() started
+2019-12-14 17:03:56 INFO  Flights:47 - From Location Entered
+2019-12-14 17:04:02 INFO  Flights:53 - To Location Entered
+2019-12-14 17:04:07 INFO  Flights:59 - Selecting from date
+2019-12-14 17:04:15 INFO  Flights:80 - Selecting return date
+2019-12-14 17:04:21 DEBUG Flights:104 - SelectFlights() started
+2019-12-14 17:04:22 INFO  Flights:109 - More Options Link clicked
+2019-12-14 17:04:22 INFO  Flights:112 - Selected Economy class
+2019-12-14 17:04:25 INFO  Flights:117 - Selected American Airlines
+2019-12-14 17:04:35 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:04:35 INFO  Base:49 - chrome
+2019-12-14 17:04:35 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:05:06 DEBUG Hotels:31 - Entering location()
+2019-12-14 17:05:18 DEBUG Hotels:39 - Ending location()
+2019-12-14 17:05:18 INFO  Hotels:40 - -----Completed location()
+2019-12-14 17:05:18 DEBUG Hotels:44 - Starting checkin()
+2019-12-14 17:05:41 DEBUG Hotels:51 - days in checkIn61
+2019-12-14 17:06:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-14 17:06:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-14 17:06:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-14 17:06:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-14 17:06:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/SUDARSHAN/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-12-14 17:06:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-14 17:06:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-14 17:06:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-14 17:06:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-14 17:06:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/SUDARSHAN/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-12-14 17:17:00 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:17:00 INFO  Base:49 - chrome
+2019-12-14 17:17:00 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:17:15 INFO  HomePage:42 - Entered username
+2019-12-14 17:17:16 INFO  HomePage:44 - Entered password
+2019-12-14 17:17:16 ERROR HomePage:46 - Invalid logins
+2019-12-14 17:17:16 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:17:16 INFO  Base:49 - chrome
+2019-12-14 17:17:16 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:17:32 DEBUG Flight:18 - Location() started
+2019-12-14 17:17:37 INFO  Flights:47 - From Location Entered
+2019-12-14 17:17:43 INFO  Flights:53 - To Location Entered
+2019-12-14 17:17:48 INFO  Flights:59 - Selecting from date
+2019-12-14 17:17:55 INFO  Flights:80 - Selecting return date
+2019-12-14 17:18:01 DEBUG Flights:104 - SelectFlights() started
+2019-12-14 17:18:02 INFO  Flights:109 - More Options Link clicked
+2019-12-14 17:18:02 INFO  Flights:112 - Selected Economy class
+2019-12-14 17:18:05 INFO  Flights:117 - Selected American Airlines
+2019-12-14 17:18:15 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:18:15 INFO  Base:49 - chrome
+2019-12-14 17:18:15 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:18:31 DEBUG Hotels:31 - Entering location()
+2019-12-14 17:18:45 DEBUG Hotels:39 - Ending location()
+2019-12-14 17:18:45 INFO  Hotels:40 - -----Completed location()
+2019-12-14 17:18:45 DEBUG Hotels:44 - Starting checkin()
+2019-12-14 17:18:52 DEBUG Hotels:51 - days in checkIn61
+2019-12-14 17:18:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-14 17:18:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-14 17:18:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-14 17:18:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-14 17:18:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/SUDARSHAN/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-12-14 17:19:01 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-14 17:19:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-14 17:19:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-14 17:19:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-14 17:19:01 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/SUDARSHAN/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-12-14 17:54:57 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:54:57 INFO  Base:49 - chrome
+2019-12-14 17:54:57 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:55:16 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:55:16 INFO  Base:49 - chrome
+2019-12-14 17:55:16 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:55:47 DEBUG Base:46 - Browser Invokation
+2019-12-14 17:55:47 INFO  Base:49 - chrome
+2019-12-14 17:55:47 INFO  Base:50 - https://www.cleartrip.com/
+2019-12-14 17:56:50 DEBUG FlightTest:18 - Location() started
+2019-12-14 17:57:06 INFO  Flights:47 - From Location Entered
+2019-12-14 17:57:12 INFO  Flights:53 - To Location Entered
+2019-12-14 17:57:17 INFO  Flights:59 - Selecting from date
+2019-12-14 17:57:36 INFO  Flights:80 - Selecting return date
+2019-12-14 17:57:52 DEBUG Flights:104 - SelectFlights() started
+2019-12-14 17:57:59 INFO  Flights:109 - More Options Link clicked
+2019-12-14 17:57:59 INFO  Flights:112 - Selected Economy class
+2019-12-14 17:58:01 INFO  Flights:117 - Selected American Airlines
+2019-12-14 17:58:07 DEBUG FlightTest:23 - Location() ended
+2019-12-14 17:58:18 INFO  HomeTest:42 - Entered username
+2019-12-14 17:58:19 INFO  HomeTest:44 - Entered password
+2019-12-14 17:58:19 ERROR HomeTest:46 - Invalid logins
+2019-12-14 17:58:19 DEBUG Hotels:31 - Entering location()
+2019-12-14 17:58:38 DEBUG Hotels:39 - Ending location()
+2019-12-14 17:58:38 INFO  Hotels:40 - -----Completed location()
+2019-12-14 17:58:38 DEBUG Hotels:44 - Starting checkin()
+2019-12-14 17:58:45 DEBUG Hotels:51 - days in checkIn61

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Reports.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="TestFlight(failed)">
+    <classes>
+      <class name="Testcases.ClearTrip.Flight">
+        <methods>
+          <include name="location"/>
+          <include name="pageNavigation"/>
+        </methods>
+      </class> <!-- Testcases.ClearTrip.Flight -->
+    </classes>
+  </test> <!-- TestFlight(failed) -->
+</suite> <!-- Failed suite [Suite] -->

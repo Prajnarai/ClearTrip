@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-14T23:54:57Z" name="Command line suite" finished-at="2019-12-14T23:58:52Z" duration-ms="235071">
+    <groups>
+    </groups>
+    <test started-at="2019-12-14T23:54:57Z" name="Command line test" finished-at="2019-12-14T23:58:52Z" duration-ms="235071">
+      <class name="Testcases.ClearTrip.FlightTest">
+        <test-method is-config="true" signature="pageNavigation()[pri:0, instance:Testcases.ClearTrip.FlightTest@36d585c]" started-at="2019-12-14T23:54:57Z" name="pageNavigation" finished-at="2019-12-14T23:55:16Z" duration-ms="19158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageNavigation -->
+        <test-method is-config="true" signature="pageNavigation()[pri:0, instance:Testcases.ClearTrip.HomeTest@87a85e1]" started-at="2019-12-14T23:55:16Z" name="pageNavigation" finished-at="2019-12-14T23:55:47Z" duration-ms="31461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageNavigation -->
+        <test-method is-config="true" signature="pageNavigation()[pri:0, instance:Testcases.ClearTrip.HotelTest@671a5887]" started-at="2019-12-14T23:55:47Z" name="pageNavigation" finished-at="2019-12-14T23:56:48Z" duration-ms="60530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageNavigation -->
+        <test-method signature="location()[pri:0, instance:Testcases.ClearTrip.FlightTest@36d585c]" started-at="2019-12-14T23:56:50Z" name="location" finished-at="2019-12-14T23:58:07Z" duration-ms="77976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- location -->
+      </class> <!-- Testcases.ClearTrip.FlightTest -->
+      <class name="Testcases.ClearTrip.HomeTest">
+        <test-method signature="loginOnTours()[pri:0, instance:Testcases.ClearTrip.HomeTest@87a85e1]" started-at="2019-12-14T23:58:08Z" name="loginOnTours" finished-at="2019-12-14T23:58:19Z" duration-ms="11510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOnTours -->
+      </class> <!-- Testcases.ClearTrip.HomeTest -->
+      <class name="Testcases.ClearTrip.HotelTest">
+        <test-method signature="hotelBookings()[pri:0, instance:Testcases.ClearTrip.HotelTest@671a5887]" started-at="2019-12-14T23:58:19Z" name="hotelBookings" finished-at="2019-12-14T23:58:52Z" duration-ms="32834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBookings -->
+      </class> <!-- Testcases.ClearTrip.HotelTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

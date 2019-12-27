@@ -1,0 +1,4 @@
+14:08:10,850 DEBUG Hotels<strong>{1}</strong>:31 - Entering location()
+14:08:27,158 DEBUG Hotels<strong>{1}</strong>:39 - Ending location()
+14:08:27,158 DEBUG Hotels<strong>{1}</strong>:43 - Starting checkin()
+14:08:34,406 DEBUG Hotels<strong>{1}</strong>:50 - days in checkIn61
